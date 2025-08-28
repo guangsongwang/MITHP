@@ -1,1 +1,1 @@
-The code about the article "Nomogram Incorporating MRI-based Intratumor Heterogeneity to Predict Recurrence-Free Survival in Stage II-III Breast Cancer"
+MITHP is a Python code for identifying intratumoral subregions with distinct heterogeneity using MRI scans.
