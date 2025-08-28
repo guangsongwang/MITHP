@@ -1,1 +1,1 @@
-The code about the article "Multicenter radio-multiomic analysis for predicting breast cancer outcome and unravelling imaging-biological connection"
+The code about the article "Nomogram Incorporating MRI-based Intratumor Heterogeneity to Predict Recurrence-Free Survival in Stage II-III Breast Cancer"
