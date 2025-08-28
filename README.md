@@ -1,1 +1,1 @@
-MITHP is a Python code for identifying intratumoral subregions with distinct heterogeneity using MRI scans.
+MITHP is a Python code for identifying intratumoral subregions with distinct heterogeneity using MRI scans. The code and data are related to the article "Multicenter radio-multiomic analysis for predicting breast cancer outcome and unravelling imaging-biological connection".
