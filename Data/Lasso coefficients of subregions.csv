@@ -1,0 +1,23 @@
+﻿ Lasso coefficients for determining the subregions.,
+Feature name,Coefficients
+(Intercept),-4.343874004
+MRI_mean,0.091661746
+MRI_median,0.000842028
+MRI_q1,0.393654786
+MRI_q3,0
+MRI_iqr,-0.897864248
+MRI_std,-1.317953072
+MRI_variance,-1.41200865
+MRI_skewness,-0.361241614
+MRI_kurtosis,0.463622657
+MRI_energy,1.913156109
+Entropy_mean,-1.798118911
+Entropy_median,-1.322631437
+Entropy_q1,-2.144204239
+Entropy_q3,-1.750278577
+Entropy_iqr,0.541621896
+Entropy_std,-0.530732549
+Entropy_variance,0.954473191
+Entropy_skewness,1.424761607
+Entropy_kurtosis,0.12502048
+Entropy_energy,-1.864839953
